@@ -103,7 +103,7 @@ a{
     border-radius: 5px;
     font-weight: bolder;
     text-decoration: underline;
-    color: black;
+    color:white;
     background-image: linear-gradient(to left, var(--cor2), transparent);
 }
 a:hover{
